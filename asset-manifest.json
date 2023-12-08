@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Leaflet-Raster/static/css/main.67435bcc.css",
+    "main.js": "/Leaflet-Raster/static/js/main.ef2024ef.js",
+    "static/js/787.c9d86184.chunk.js": "/Leaflet-Raster/static/js/787.c9d86184.chunk.js",
+    "static/media/Screenshot 2023-12-08 173242.png": "/Leaflet-Raster/static/media/Screenshot 2023-12-08 173242.c995a01197c204f6b64b.png",
+    "index.html": "/Leaflet-Raster/index.html",
+    "main.67435bcc.css.map": "/Leaflet-Raster/static/css/main.67435bcc.css.map",
+    "main.ef2024ef.js.map": "/Leaflet-Raster/static/js/main.ef2024ef.js.map",
+    "787.c9d86184.chunk.js.map": "/Leaflet-Raster/static/js/787.c9d86184.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67435bcc.css",
+    "static/js/main.ef2024ef.js"
+  ]
+}
