@@ -3,7 +3,7 @@ import { MapContainer, TileLayer, ImageOverlay } from 'react-leaflet';
 import img from './Screenshot 2023-12-08 173242.png'
 
 const RastarData = () => {
-  const mapCenter = [51.505, -0.09];
+  const mapCenter = [21.0000, 78.0000];
   const mapZoom = 13;
   const imageUrl = img;
   const imageBounds = [
